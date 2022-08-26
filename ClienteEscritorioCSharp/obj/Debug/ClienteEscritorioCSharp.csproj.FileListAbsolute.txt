@@ -1,0 +1,10 @@
+C:\Users\linda\source\repos\Practica02\ClienteEscritorioCSharp\bin\Debug\ClienteEscritorioCSharp.exe.config
+C:\Users\linda\source\repos\Practica02\ClienteEscritorioCSharp\bin\Debug\ClienteEscritorioCSharp.exe
+C:\Users\linda\source\repos\Practica02\ClienteEscritorioCSharp\bin\Debug\ClienteEscritorioCSharp.pdb
+C:\Users\linda\source\repos\Practica02\ClienteEscritorioCSharp\obj\Debug\ClienteEscritorioCSharp.csproj.AssemblyReference.cache
+C:\Users\linda\source\repos\Practica02\ClienteEscritorioCSharp\obj\Debug\ClienteEscritorioCSharp.Form1.resources
+C:\Users\linda\source\repos\Practica02\ClienteEscritorioCSharp\obj\Debug\ClienteEscritorioCSharp.Properties.Resources.resources
+C:\Users\linda\source\repos\Practica02\ClienteEscritorioCSharp\obj\Debug\ClienteEscritorioCSharp.csproj.GenerateResource.cache
+C:\Users\linda\source\repos\Practica02\ClienteEscritorioCSharp\obj\Debug\ClienteEscritorioCSharp.csproj.CoreCompileInputs.cache
+C:\Users\linda\source\repos\Practica02\ClienteEscritorioCSharp\obj\Debug\ClienteEscritorioCSharp.exe
+C:\Users\linda\source\repos\Practica02\ClienteEscritorioCSharp\obj\Debug\ClienteEscritorioCSharp.pdb
